@@ -1,0 +1,11 @@
+{
+    "directories": ["~"],
+
+    "link": {
+        "vimrc": "~/.vimrc"
+    },
+    "copy": {
+    },
+
+    "commands": []
+}
