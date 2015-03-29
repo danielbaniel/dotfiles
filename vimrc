@@ -133,3 +133,5 @@ let g:Powerline_symbols = 'fancy'
 python from powerline.vim import setup as powerline_setup
 python powerline_setup()
 python del powerline_setup
+
+let g:syntastic_python_python_exec = '/usr/local/bin/python3'
